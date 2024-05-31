@@ -1,6 +1,4 @@
-## LearnIt::R
-
-LearnIt::R rassembles R packages and documentation to teach R, statistics and data science. [Start here](https://learnitr.github.io/learnitrdoc/), see also the [learnitr R-universe](https://learnitr.r-universe.dev).
+LearnIt::R provides R packages and documentation to teach R, statistics and data science. [Start here](https://learnitr.github.io/learnitrdoc/), see also our [R-universe](https://learnitr.r-universe.dev).
 
 <!--
 
